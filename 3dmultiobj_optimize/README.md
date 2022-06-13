@@ -1,6 +1,6 @@
 #  Multi-Object 3D Scene Representations Network
 
-![teaser](/imgs/teaser.png)
+![teaser](/3dmultiobj_optimize/imgs/teaser.png)
 
 
 ## Pre-Training of DeepSDF
